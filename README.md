@@ -8,6 +8,8 @@ Su fin es solo academico, ya que solo logra clasificacion binaria. Para el
 desarrollo habiamos utilizado dos datasets basados en la deteccion de correos
 de spam, estas hojas de datos vienen anexados al repositorio.
 
+El modelo esta echo en Java y tambien incluye el pdf con la explicacion a detalle del algoritmo.
+
 Explicacion de los datos:
 
 Datos:
